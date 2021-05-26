@@ -1,0 +1,31 @@
+.cart{
+    color: white;
+    text-decoration: none;
+}
+.left{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:coral;
+    opacity: .8;
+    color: blanchedalmond;
+    margin: 1em;
+    padding: .5em;
+    border-radius: 10px;
+    z-index: 999;
+    width: 98%;
+    top: 0;
+}
+.Link:hover{
+    text-decoration: none;
+}
+.Link h1{
+    text-decoration: none;
+    color:darkred;
+}
+
+ 
+.left > h3{
+    margin-right: 1.5em;
+    text-transform:capitalize;    
+}
